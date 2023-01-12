@@ -89,7 +89,7 @@ async function getInputValue(){
   }
   else if(value === "about me"){
     trueValue(value);
-    createText("I am Ashok KC)")
+    createText("I am Miraz Mondal)")
     createText("For more details visit this link <a href='https://kcashok.com.np/about.php' target='_blank'>https://kcashok.com.np/about.php</a>")
   }
   else if(value === "contact"){
